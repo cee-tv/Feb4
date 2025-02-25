@@ -1,6 +1,6 @@
   {
                 src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd",
-                img: "https://i.imgur.com/jsCBRq0.png",
+                img: "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=242",
                 name: "TV5",
                 key: "2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d"
             },
@@ -12,7 +12,7 @@
             },
             {
                 src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd",
-                img: "https://i.imgur.com/IDCHfXm.png",
+                img: "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=242",
                 name: "RPTV",
                 key: "1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595"
             },
@@ -30,7 +30,7 @@
             },
             {
                 src: "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd",
-                img: "https://i.imgur.com/bmP06bk.png",
+                img: "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=242",
                 name: "ONE NEWS",
                 key: "d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f"
             },
@@ -66,7 +66,7 @@
             },
             {
                 src: "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd",
-                img: "https://i.imgur.com/Z5ZyJ8c.png",
+                img: "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=242",
                 name: "BILYONARYO CHANNEL",
                 key: "227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2"
             },
@@ -147,7 +147,7 @@
             },
             {
                 src: "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd",
-                img: "https://i.imgur.com/709Uy7N.png",
+                img: "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8AAA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=242",
                 name: "PINOY BOX OFFICE",
                 key: "dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1"
             },
@@ -611,7 +611,7 @@
             },
             {
                 src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd",
-                img: "https://i.imgur.com/z9fsJ2L.png",
+                img: "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9C02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=242",
                 name: "HISTORY",
                 key: "a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675"
             },
@@ -856,7 +856,7 @@
             },
             {
                 src: "https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8",
-                img: "https://i.imgur.com/CIBoLmB.png",
+                img: "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=485",
                 name: "W-SPORT"
             },
             {

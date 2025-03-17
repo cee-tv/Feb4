@@ -182,6 +182,7 @@
             <ul>
                 <li onclick="changeChannel('axn')">43. AXN</li>
                 <li onclick="changeChannel('buko')">5. Buko</li>
+          
                 <li onclick="changeChannel('sarisari')">6. Sari-Sari</li>
                 <li onclick="changeChannel('crimeinvestigation')">59. Crime & Investigation</li>
                 <li onclick="changeChannel('hitsnow')">45. HITS Now</li>
@@ -210,10 +211,10 @@
         <div class="category">
             <h4>Lifestyle</h4>
             <ul>
-                <li onclick="changeChannel('asianfoodnetwork')">53. Asian Food Network</li>
-                <li onclick="changeChannel('bbcearthhd')">55. BBC Earth HD</li  
-                <li onclick="changeChannel('asianfoodnetwork')">63. TLC</li>                                                           
-                <li onclick="changeChannel('travelchannelsd')">58. Travel Channel SD</li>
+                <li onclick="changeChannel('asianfoodnetwork')">62. Asian Food Network</li>               
+                <li onclick="changeChannel('discoverychannelsd')">202. BBC Lifestyle HD</li>
+                <li onclick="changeChannel('onenews2')">69. Metro Manila</li>
+                <li onclick="changeChannel('asianfoodnetwork')">63. TLC</li>                                                  <li onclick="changeChannel('travelchannelsd')">64. Travel Channel SD</li>
                 
             </ul>
         </div>
@@ -221,11 +222,13 @@
         <div class="category">
             <h4>Educational & Documentary</h4>
             <ul>
-                <li onclick="changeChannel('animalplanet')">57. Animal Planet</li>
+                <li onclick="changeChannel('animalplanet')">143. Animal Planet</li>
                 <li onclick="changeChannel('animalplanet')">149. DepEd TV</li>
-                <li onclick="changeChannel('discoverychannelsd')">56. Discovery Channel SD</li>               
-                <li onclick="changeChannel('knowledgechannel')">54. Knowledge Channel</li>         
-                <li onclick="changeChannel('tvup')">61. TVUP</li>
+                <li onclick="changeChannel('discoverychannelsd')">140. Discovery</li>
+                <li onclick="changeChannel('discoverychannelsd')">145. Discovery Asia</li>
+                <li onclick="changeChannel('knowledgechannel')">146. Knowledge Channel</li>
+                <li onclick="changeChannel('cnnhd')">144. Outdoor Channel</li>
+                <li onclick="changeChannel('tvup')">101. TVUP</li>
             </ul>
         </div>
 
